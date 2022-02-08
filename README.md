@@ -27,9 +27,9 @@ Users should be able to:
 
 ### Screenshot
 
-<img src="./Solution-Desktop.png" width="400">
+<img src="./Solution-Desktop.png" width="600">
 
-<img src="./Solution-Mobile.png" width="100">
+<img src="./Solution-Mobile.png" width="200">
 
 ### Links
 
